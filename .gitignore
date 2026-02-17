@@ -114,6 +114,8 @@ virtualization/vagrant/config
 !.vscode/tasks.json
 !.vscode/settings.default.jsonc
 .env
+.devcontainer/
+devcontainer.json
 
 # Windows Explorer
 desktop.ini
@@ -143,4 +145,5 @@ pytest_buckets.txt
 # AI tooling
 .claude/settings.local.json
 .serena/
+
 
